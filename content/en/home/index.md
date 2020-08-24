@@ -1,6 +1,6 @@
 ---
-title: "Hi, I'm Introduction"
+title: "Hi, I'm Luiz"
 headless: true
 ---
 
-I'm a theme for Hugo
+This is my personal website

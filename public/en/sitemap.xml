@@ -6,13 +6,8 @@
     <loc>/projects/photography/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/projects/photography/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/projects/photography/"
+                hreflang="pt"
+                href="/pt/projects/photography/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -25,13 +20,8 @@
     <loc>/projects/design/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/projects/design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/projects/design/"
+                hreflang="pt"
+                href="/pt/projects/design/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -44,13 +34,8 @@
     <loc>/projects/writing/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/projects/writing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/projects/writing/"
+                hreflang="pt"
+                href="/pt/projects/writing/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -63,13 +48,8 @@
     <loc>/projects/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/projects/"
+                hreflang="pt"
+                href="/pt/projects/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -83,13 +63,8 @@
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/blog/"
+                hreflang="pt"
+                href="/pt/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -103,13 +78,8 @@
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/code/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/code/"
+                hreflang="pt"
+                href="/pt/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -123,13 +93,8 @@
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/"
+                hreflang="pt"
+                href="/pt/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -143,13 +108,8 @@
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/"
+                hreflang="pt"
+                href="/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -176,16 +136,6 @@
   <url>
     <loc>/blog/hipster-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/blog/hipster-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/hipster-ipsum/"
-                />
   </url>
   
   <url>
@@ -193,13 +143,8 @@
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/ipsum/"
+                hreflang="pt"
+                href="/pt/tags/ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -213,13 +158,8 @@
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/words/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/words/"
+                hreflang="pt"
+                href="/pt/tags/words/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -233,13 +173,8 @@
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/blog/startup-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/blog/startup-ipsum/"
+                hreflang="pt"
+                href="/pt/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -253,13 +188,8 @@
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/coffee/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/coffee/"
+                hreflang="pt"
+                href="/pt/tags/coffee/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -273,13 +203,8 @@
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/blog/coffee-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/blog/coffee-ipsum/"
+                hreflang="pt"
+                href="/pt/blog/coffee-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -293,13 +218,8 @@
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/images/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/images/"
+                hreflang="pt"
+                href="/pt/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"

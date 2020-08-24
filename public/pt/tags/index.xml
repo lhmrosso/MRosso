@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Introdução</title>
+    <link>/pt/tags/</link>
+    <description>Recent content in Tags on Introdução</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 13 Nov 2017 11:58:39 -0500</lastBuildDate>
+    
+	<atom:link href="/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ipsum</title>
+      <link>/pt/tags/ipsum/</link>
+      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      
+      <guid>/pt/tags/ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>words</title>
+      <link>/pt/tags/words/</link>
+      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      
+      <guid>/pt/tags/words/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>/pt/tags/code/</link>
+      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
+      
+      <guid>/pt/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coffee</title>
+      <link>/pt/tags/coffee/</link>
+      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      
+      <guid>/pt/tags/coffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>images</title>
+      <link>/pt/tags/images/</link>
+      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      
+      <guid>/pt/tags/images/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
