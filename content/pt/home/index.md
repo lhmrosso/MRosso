@@ -1,6 +1,6 @@
 ---
-title: "Hola, Soy Introducción"
+title: "Olá, eu sou o Luiz"
 headless: true
 ---
 
-Soy un tema para Hugo
+Esse é meu site pessoal.

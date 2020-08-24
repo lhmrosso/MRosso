@@ -1,5 +1,5 @@
 ---
-title: "Contacto"
+title: "Contato"
 ---
 
 En la sección de Contacto de **Introducción**, tu puedes opcionalmente mostrar la hora actual en tu zona horaria preferida.

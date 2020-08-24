@@ -3,45 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/projects/photography/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/pt/projects/photography/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/projects/photography/"
-                />
+    <loc>/projects/crops/</loc>
   </url>
   
   <url>
-    <loc>/projects/design/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/pt/projects/design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/projects/design/"
-                />
+    <loc>/projects/projects/</loc>
   </url>
   
   <url>
-    <loc>/projects/writing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/pt/projects/writing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/projects/writing/"
-                />
+    <loc>/projects/colleagues/</loc>
   </url>
   
   <url>
