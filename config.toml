@@ -6,7 +6,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
 
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
-    favicon                      = "/img/fav.ico"          # Path to favicon file
+    favicon                      = "/img/my_logo.ico"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
     fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
@@ -98,7 +98,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "mrosso"
+        title            = "LuizHMRosso"
         [languages.en.params]
             description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
@@ -108,7 +108,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "pt-br"
         contentDir       = "content/pt"
         weight           = 1
-        title            = "mrosso"
+        title            = "LuizHMRosso"
         [languages.pt.params]
             description  = "Descrição do site"
             # footerText   = ""
