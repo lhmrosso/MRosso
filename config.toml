@@ -98,7 +98,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "LuizHMRosso"
+        title            = "LuizH.M.Rosso"
         [languages.en.params]
             description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
@@ -108,7 +108,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "pt-br"
         contentDir       = "content/pt"
         weight           = 1
-        title            = "LuizHMRosso"
+        title            = "LuizH.M.Rosso"
         [languages.pt.params]
             description  = "Descrição do site"
             # footerText   = ""
