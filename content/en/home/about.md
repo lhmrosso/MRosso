@@ -1,12 +1,12 @@
 ---
 title: "About"
-image: "profile.jpg"
+image: "profile.png"
 weight: 8
 ---
 
-This is **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io).
+On my family’s farm in northeast Brazil, I could early experience crop production and the major role agriculture plays in my country. The desire to better understand cropping systems took me to earn a B.S. degree in Agronomy from the Federal University of Santa Maria. Early in my academic career, I became involved in research activities related to soil fertility and precision agriculture. I found out a lot of questions we had no answers for and the scientific method could help farmers with those problems. Aiming to learn more research tools and experience other agriculture scenarios I came to the Kansas State University and am currently pursuing a M.S. degree in Agronomy. After completing my graduate program I wish to keep studying cropping systems and to spread research findings among the hard-working people involved in crop production.
 
-### Features
+### Education
 
 * Responsive display on any size screen
 * Light and Dark themes right out of the box
