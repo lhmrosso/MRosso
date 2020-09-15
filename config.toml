@@ -94,7 +94,7 @@ googleAnalytics                  = "UA-177869338-1"        # https://gohugo.io/t
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "LuizH.M.Rosso"
+        title            = "Luiz H. M. Rosso"
         [languages.en.params]
             description  = "Personal website"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
@@ -104,7 +104,7 @@ googleAnalytics                  = "UA-177869338-1"        # https://gohugo.io/t
         languageCode     = "pt-br"
         contentDir       = "content/pt"
         weight           = 1
-        title            = "LuizH.M.Rosso"
+        title            = "Luiz H. M. Rosso"
         [languages.pt.params]
             description  = "Site pessoal"
             # footerText   = ""
